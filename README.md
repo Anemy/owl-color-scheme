@@ -7,3 +7,5 @@ Color Scheme for TM, Sublime, etc.
 * Based on Vim's Desert theme and Dracula by Zeno Rocha
 
 ![Screenshot 1](http://i.imgur.com/adS5iSw.png)
+
+Written by: https://github.com/omnus
